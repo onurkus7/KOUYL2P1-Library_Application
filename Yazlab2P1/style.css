@@ -1,0 +1,97 @@
+
+#genel {
+	
+	position:relative;
+	left:200px;
+	width:900px;
+	top:220px;
+}
+
+#ara input{	
+	
+	width:700px;
+	height:35px;
+	border:2px solid #ddd;
+	font-size:18px;
+	font-family:verdana;
+	
+}
+#ara button {
+	
+	border:1px solid #ddd;
+	width:120px;
+	height:34px;
+	font-family:verdana;
+	font-size:18px;
+	background:#ddd;
+}
+
+#sonuc {
+	
+	border:1px solid #ddd;
+	width:699px;
+	padding:10px;
+	font-size:20px;
+	margin-top:3px;
+	background:#ddd;
+
+	
+}
+
+
+#ara h2 {
+	
+	text-align:center;
+	margin-left:30px;
+	position:relative;
+	left:200px;
+	font-size:20px;
+	border-radius: 10px;
+	background:#b4b4b4;
+}
+
+#adminButon{
+
+	position:relative;
+	border:1px solid #ccc;
+	left:1010px;
+	right:200px;
+	height:35px;
+	width:130px;
+	top:75px;
+	font-family:verdana;
+	font-size:14px;
+	background:#ccc;
+
+}
+#userButon{
+
+	position:relative;
+	border:1px solid #ccc;
+	left:1050px;
+	right:200px;
+	height:35px;
+	width:130px;
+	top:75px;
+	font-family:verdana;
+	font-size:14px;
+	background:#ccc;
+
+}
+
+#userOutButon{
+
+	position:relative;
+	border:1px solid #ccc;
+	margin-top:50px;
+	margin-left:1500px;
+	right:200px;
+	height:35px;
+	width:150px;
+	top:75px;
+	font-family:verdana;
+	font-size:18px;
+	background:#ccc;
+
+}
+
